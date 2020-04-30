@@ -27,7 +27,7 @@
         "epic-spinners": "^1.1.0",
         "gsap": "^2.1.2",
         "install": "^0.12.2",
-        "jquery": "^3.2",
+        "jquery": "^3.5",
         "js-cookie": "^2.2.0",
         "laravel-mix": "^4.0.7",
         "lodash": "^4.17.5",
