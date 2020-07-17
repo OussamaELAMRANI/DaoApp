@@ -30,7 +30,7 @@
         "jquery": "^3.2",
         "js-cookie": "^2.2.0",
         "laravel-mix": "^4.0.7",
-        "lodash": "^4.17.5",
+        "lodash": "^4.17.19",
         "medium-editor": "^5.23.3",
         "moment": "^2.24.0",
         "nprogress": "^0.2.0",
