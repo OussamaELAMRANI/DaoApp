@@ -14,7 +14,7 @@
         "ag-grid-community": "^20.2.0",
         "ag-grid-enterprise": "^20.2.0",
         "ag-grid-vue": "^20.2.0",
-        "axios": "^0.18",
+        "axios": "^0.21",
         "babel-plugin-dynamic-import-node": "^2.2.0",
         "babel-plugin-syntax-dynamic-import": "^6.18.0",
         "babel-plugin-syntax-jsx": "^6.18.0",
